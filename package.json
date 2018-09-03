@@ -1,0 +1,16 @@
+{
+  "name": "officident",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp"
+  },
+  "author": "Rodion Borisov <vintproykt@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svg2png": "^2.0.2"
+  }
+}
